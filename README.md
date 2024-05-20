@@ -1,2 +1,1 @@
-# .github
-Description
+This repository serves as a centralized hub for our powerful PowerShell scripts and code snippets. As an IT consultancy company, we focus on recovering, configuring, and hardening Windows environments for our clients. Whether you’re an IT professional, a security enthusiast, or a fellow practitioner, you are more than wellcome to have a look, feedback and requests are also welcomed, we try to help whereever we can.
