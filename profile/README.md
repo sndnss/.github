@@ -1,0 +1,1 @@
+This repository serves as a centralized hub for our powerful PowerShell scripts and code snippets. As an IT security company, we focus on recovering, configuring, and hardening Windows environments for our clients. Whether you’re an IT professional, a security enthusiast, or a fellow practitioner, you’ll find valuable tools here.
